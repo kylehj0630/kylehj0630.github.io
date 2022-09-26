@@ -1,0 +1,1 @@
+jQuery(function($){$(document).ready(function(){$("h3.wow-toggle-trigger").click(function(){$(this).toggleClass("active").next().slideToggle("fast");return false;});});});
