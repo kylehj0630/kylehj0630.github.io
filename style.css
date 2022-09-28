@@ -2156,7 +2156,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .maintitle {
 	.introblock h1 {padding: 0px 10px;}
 }
 
-@media screen and (max-width:950px) {
+@media screen and (max-width:100%) {
 	a.navbar-brand img {
 		margin-top: -20px;
 		}
