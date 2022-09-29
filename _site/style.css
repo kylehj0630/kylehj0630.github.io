@@ -2174,7 +2174,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .maintitle {
 		width:97%;
 		color:#fff;
 		height:44px;
-		padding-left:30px;
+		padding-left:85%;
 	}
 	#main-menu {
 		display:none;
