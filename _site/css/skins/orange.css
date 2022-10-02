@@ -12,8 +12,8 @@ a, .colortext, code, .navbar-collapse .nav>li>a:hover, .infoareaicon, .fontaweso
  #search a,#search input.search-submit {background:#f86b16 url(../../img/part-btn-search.png) no-repeat center center;}
 .wow-pricing-table>div.featured,.wow-accordion .wow-accordion-trigger.ui-state-active {border-top: #f86b16 3px solid;}
 .panel, .panel1 {border-left: 8px solid #f86b16;}
-::selection {background: #f86b16;color: #fff;text-shadow: none;}
+::selection {background: #0d8bd4;color: #fff;text-shadow: none;}
 
 
 .colorarea
-{background-color: #777;}
+{background-color: rgb(14, 44, 14);}
