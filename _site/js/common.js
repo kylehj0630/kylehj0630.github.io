@@ -682,4 +682,3 @@ window.addEventListener('resize', function(){
     responsiveHeight = $videoIframe.offsetWidth * 0.5625;
     $videoIframe.setAttribute('height', responsiveHeight);
 });
-
